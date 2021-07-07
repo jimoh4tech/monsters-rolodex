@@ -1,7 +1,7 @@
 {
   "name": "monsters-rolodex",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://abu-abdillah1.github.io/monters-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
